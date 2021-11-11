@@ -18,8 +18,7 @@
   <ol>
     <li>
       <a href="#Part-I">Part I : DNS configuration</a>
-      <ul>
-         <li><a href="#Part-I">Part I : DNS configuration</a></li>
+         <ul>
               <li><a href="#DNS-role-functions">DNS, role & functions</a></li>
               <li><a href="#different-DNS-servers">different DNS servers</a></li>
               <li><a href="#DNS-configuration-steps">DNS server’s configuration steps</a></li>
@@ -35,7 +34,7 @@
                      <li><a href="#secondary-DNS-server">secondary DNS server</a></li>
                      <li><a href="#Test-the-configuration">Test the configuration by stopping the master DNS</a></li>
                   </ul>
-            </ul>
+           </ul>
         <li><a href="#Part-II">Part II : DDNS configuration</a></li>
             <ul> 
               <li><a href="#Configure-the-DDNS-server">Configure the DDNS server</a></li>
