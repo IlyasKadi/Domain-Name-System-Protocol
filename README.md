@@ -23,7 +23,7 @@
               <li><a href="#different-DNS-servers">different DNS servers</a></li>
               <li><a href="#DNS-configuration-steps">DNS server’s configuration steps</a></li>
                   <ul> 
-                      <li><a href="#Configure-the-named.conf">Configure the named.conf</a></li>
+                      <li><a href="#Configure-the-named">Configure the named.conf</a></li>
                       <li><a href="#configure-zone-files">Create and configure zone files</a></li>
                       <li><a href="#Verify-the-configuration">Verify the configuration</a></li>
                   </ul>
@@ -72,7 +72,7 @@
 <!-- DNS configuration steps -->
 ## DNS-configuration-steps
 
-### Configure-the-named.conf
+### Configure-the-named
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
