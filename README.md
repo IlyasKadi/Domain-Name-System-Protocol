@@ -19,8 +19,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Part-I">Part I : DNS configuration</a></li>
-            <ul> 
+        <li><a href="#Part-I">Part I : DNS configuration</a></li> 
               <li><a href="#DNS-role-functions">DNS, role & functions</a></li>
               <li><a href="#different-DNS-servers">different DNS servers</a></li>
               <li><a href="#DNS-configuration-steps">DNS server’s configuration steps</a></li>
@@ -47,7 +46,6 @@
               <li><a href="#Verify-the-configuration">Verify the configuration</a></li>
             </ul>
         <li><a href="#Part-III">Part III : DDNS and DMZ</a></li>
-      </ul>
     </li>     
   </ol>
 </details>
