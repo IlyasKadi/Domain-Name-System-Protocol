@@ -75,12 +75,11 @@
 ### Configure-the-named
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### configure-zone-files
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ### Verify-the-configuration
 
@@ -116,7 +115,6 @@
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Configure-the-forward-and-reverse-zones
 
@@ -136,7 +134,6 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- Verify the configuration -->
 ## Verify-the-configuration
 
@@ -151,6 +148,6 @@
 
 Out Team - [AIT EL KADI Ilyas](https://github.com/IlyasKadi) - [AZIZ Oussama](https://github.com/ATAMAN0)
 
-Project Link: [https://github.com/IlyasKadi/HSLA_Image_color_space](https://github.com/IlyasKadi/HSLA_Image_color_space)
+Project Link: [https://github.com/IlyasKadi/Domain-Name-System-Protocol](https://github.com/IlyasKadi/Domain-Name-System-Protocol)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
