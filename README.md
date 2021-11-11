@@ -19,7 +19,7 @@
     <li>
       <a href="#Part-I">Part I : DNS configuration</a>
       <ul>
-         
+         <li><a href="#Part-I">Part I : DNS configuration</a></li>
               <li><a href="#DNS-role-functions">DNS, role & functions</a></li>
               <li><a href="#different-DNS-servers">different DNS servers</a></li>
               <li><a href="#DNS-configuration-steps">DNS server’s configuration steps</a></li>
