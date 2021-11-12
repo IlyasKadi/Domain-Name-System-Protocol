@@ -80,6 +80,10 @@ In order to understand the process behind the DNS resolution, it’s important t
    
    - Authoritative nameserver - This final nameserver can be thought of as a dictionary on a rack of books, in which a specific name can be translated into its definition. The authoritative nameserver is the last stop in the nameserver query. If the authoritative name server has access to the requested record, it will return the IP address for the requested hostname back to the DNS Recursor (the librarian) that made the initial request.
 
+**What's the difference between an authoritative DNS server and a recursive DNS resolver?**
+
+Both concepts refer to servers (groups of servers) that are integral to the DNS infrastructure, but each performs a different role and lives in different locations inside the pipeline of a DNS query. One way to think about the difference is the recursive resolver is at the beginning of the DNS query and the authoritative nameserver is at the end.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
