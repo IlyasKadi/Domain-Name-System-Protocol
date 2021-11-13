@@ -167,7 +167,10 @@ Both concepts refer to servers (groups of servers) that are integral to the DNS 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Part-III
-
+ **Project description:**
+  - The goal is to set up a DNS server on a demilitarized zone, based on the delegation  between  two  DNS  servers  (parent  server  and  child  server).The network diagram is as follows:
+  
+  ![DDNS_and_DMZ](images/part3.jpg)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
