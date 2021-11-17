@@ -35,7 +35,8 @@
                      <li><a href="#Test-the-configuration">Test the configuration by stopping the master DNS</a></li>
                   </ul>
            </ul>
-        <li><a href="#Part-II">Part II : DDNS configuration</a></li>
+        </li>
+        <li><a href="#Part-II">Part II : DDNS configuration</a>
             <ul> 
               <li><a href="#Configure-the-DDNS-server">Configure the DDNS server</a></li>
                    <ul> 
@@ -45,8 +46,8 @@
               <li><a href="#Configure-the-client">Configure the client</a></li>
               <li><a href="#Verify-the-configuration">Verify the configuration</a></li>
             </ul>
+           </li> 
         <li><a href="#Part-III">Part III : DDNS and DMZ</a></li>
-    </li>     
   </ol>
 </details>
 
