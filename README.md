@@ -52,6 +52,7 @@
 
 
 Roses are <span style="color:red">red</span>
+
 Roses are $\color{red}{\text{beautiful red}}$
 
 <!-- Part-I -->
