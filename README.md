@@ -58,6 +58,8 @@
 @@ text in purple (and bold)@@
 ```
 
+<p style='color:red'>This is some red text.</p>
+
 <!-- Part-I -->
 # Part-I
 
