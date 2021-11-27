@@ -131,7 +131,15 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 
 ### configure-zone-files
 
+> <div align="center">
+>    <img src="images/db.131.png">
+> </div>
 
+
+
+<div align="center">
+    <img src="images/db.NOIK.com.png">
+</div>
 
 
 ### Verify-the-configuration
