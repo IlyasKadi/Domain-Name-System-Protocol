@@ -116,8 +116,7 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
  + 9.+ The browser makes a HTTP request to the IP address.
 
  + 10.+ The server at that IP returns the webpage to be rendered in the browser (step 10).
- 
-``` 
+ ```` 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
