@@ -56,7 +56,7 @@
 <!-- DNS role functions -->
 ## DNS-role-functions
 
-```red
+```diff
  **What is DNS?**
 ```
 
