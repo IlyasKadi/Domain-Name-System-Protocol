@@ -51,16 +51,6 @@
    </ol>
 
 
-Roses are <span style="color:red">red</span>
-
-Roses are $\color{red}{\text{beautiful red}}$
-
-Roses are `r kableExtra::text_spec("red", color = "red")`
-
-<div custom-style=“DivCol”>Whole paragraph of colored text</div>
-
-Just a <span custom-style=“SpanCol”>few words</span> of colored text
-
 <!-- Part-I -->
 # Part-I
 
