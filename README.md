@@ -93,7 +93,7 @@ In order to understand the process behind the DNS resolution, it’s important t
 
 ### **The 8 steps in a DNS lookup:**
 
-
+```Diff
 1. A user types ‘example.com’ into a web browser and the query travels into the Internet and is received by a DNS recursive resolver.
 
 3. The resolver then queries a DNS root nameserver (.).
@@ -115,7 +115,7 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 9. The browser makes a HTTP request to the IP address.
 
 10. The server at that IP returns the webpage to be rendered in the browser (step 10).
- 
+``` 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
