@@ -50,6 +50,7 @@
         <li><a href="#Part-III">Part III : DDNS and DMZ</a></li>
    </ol>
 
+<font color="green"> Some green text </font>
 
 <!-- Part-I -->
 # Part-I
