@@ -81,10 +81,6 @@ In order to understand the process behind the DNS resolution, it’s important t
    
    - **Authoritative nameserver** - This final nameserver can be thought of as a dictionary on a rack of books, in which a specific name can be translated into its definition. The authoritative nameserver is the last stop in the nameserver query. If the authoritative name server has access to the requested record, it will return the IP address for the requested hostname back to the DNS Recursor (the librarian) that made the initial request.
 
-**What's the difference between an authoritative DNS server and a recursive DNS resolver?**
-
-Both concepts refer to servers (groups of servers) that are integral to the DNS infrastructure, but each performs a different role and lives in different locations inside the pipeline of a DNS query. One way to think about the difference is the recursive resolver is at the beginning of the DNS query and the authoritative nameserver is at the end.
-
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -92,6 +88,20 @@ Both concepts refer to servers (groups of servers) that are integral to the DNS 
 <!-- different DNS servers -->
 ## different-DNS-servers
 
+**The 8 steps in a DNS lookup:**
+1. A user types ‘example.com’ into a web browser and the query travels into the Internet and is received by a DNS recursive resolver.
+2. The resolver then queries a DNS root nameserver (.).
+3. The root server then responds to the resolver with the address of a Top Level Domain (TLD) DNS server (such as .com or .net), which stores the information for its domains. 
+4. When searching for example.com, our request is pointed toward the .com TLD.
+The resolver then makes a request to the .com TLD.
+The TLD server then responds with the IP address of the domain’s nameserver, example.com.
+Lastly, the recursive resolver sends a query to the domain’s nameserver.
+The IP address for example.com is then returned to the resolver from the nameserver.
+The DNS resolver then responds to the web browser with the IP address of the domain requested initially.
+Once the 8 steps of the DNS lookup have returned the IP address for example.com, the browser is able to make the request for the web page:
+
+The browser makes a HTTP request to the IP address.
+The server at that IP returns the webpage to be rendered in the browser (step 10).
  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
