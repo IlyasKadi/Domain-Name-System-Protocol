@@ -55,6 +55,8 @@ Roses are <span style="color:red">red</span>
 
 Roses are $\color{red}{\text{beautiful red}}$
 
+Roses are `r kableExtra::text_spec("red", color = "red")`
+
 <!-- Part-I -->
 # Part-I
 
