@@ -126,7 +126,6 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 
 <div align="center">
     <img src="images/named.conf.local.png">
-  <h2 align="center"> > Project 2 </h2>
 </div>
 
 
