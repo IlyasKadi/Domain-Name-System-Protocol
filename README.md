@@ -98,8 +98,7 @@ In order to understand the process behind the DNS resolution, it’s important t
 
 - 2. The resolver then queries a DNS root nameserver (.).
  
-- 3. The root server then responds to the resolver with the address of a Top Level Domain (TLD) DNS server (such as .com or .net), which stores the information for its domains. 
-   When searching for example.com, our request is pointed toward the .com TLD.
+- 3.- The root server then responds to the resolver with the address of a Top Level Domain (TLD) DNS server (such as .com or .net), which stores the information for its domains. When searching for example.com, our request is pointed toward the .com TLD.
 
 - 4. The resolver then makes a request to the .com TLD.
 
