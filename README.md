@@ -13,9 +13,9 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
-  
+  <ol>
     <li>
       <a href="#Part-I">Part I : DNS configuration</a>
          <ul>
@@ -48,8 +48,8 @@
             </ul>
            </li> 
         <li><a href="#Part-III">Part III : DDNS and DMZ</a></li>
-  
-</details>
+   </ol>
+
 
 
 
