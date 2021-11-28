@@ -149,6 +149,13 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 <!-- Configure the DNS Client -->
 ## Configure-the-DNS-Client
 
+<div align="center">
+    <img src="images/client-DNS.png">
+</div>
+
+<div align="center">
+    <img src="images/client_test.com.png">
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
