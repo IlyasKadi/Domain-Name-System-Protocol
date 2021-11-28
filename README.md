@@ -111,6 +111,7 @@
  - 8.- The DNS resolver then responds to the web browser with the IP address of the domain requested initially.
  
 Once the 8 steps of the DNS lookup have returned the IP address for example.com, the browser is able to make the request for the web page:
+
  + 9.+ The browser makes a HTTP request to the IP address.
  
  + 10.+ The server at that IP returns the webpage to be rendered in the browser (step 10).
