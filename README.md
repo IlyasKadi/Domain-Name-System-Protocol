@@ -94,8 +94,7 @@
 ### **The 8 steps in a DNS lookup:**
 
 ```Diff
-
- - A user types ‘example.com’ into a web browser and the query travels into the Internet and is received by a DNS recursive resolver.
+ -A user types ‘example.com’ into a web browser and the query travels into the Internet and is received by a DNS recursive resolver.
 
  - 2.- The resolver then queries a DNS root nameserver (.).
  
