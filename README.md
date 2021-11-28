@@ -154,7 +154,7 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 </div>
 
 <div align="center">
-    <img src="images/client_test.com.png">
+    <img src="images/client_test.png">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
