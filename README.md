@@ -182,6 +182,9 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 </div>
 
 ### Test-the-configuration
+<div align="center">
+    <img src="images/transfer_notify_success.png">
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
