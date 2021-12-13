@@ -165,9 +165,21 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 ## Configure-primary-and-secondary-DNS-servers
 ### primary-DNS-server
 
+<div align="center">
+    <img src="images/named_cnfg.png">
+</div>
+
+<div align="center">
+    <img src="images/named_cnfg_options.png">
+</div>
 
 ### secondary-DNS-server
-
+<div align="center">
+    <img src="images/slave_named_cnfg.png">
+</div>
+<div align="center">
+    <img src="images/slave_named_cnfg_options.png">
+</div>
 
 ### Test-the-configuration
 
